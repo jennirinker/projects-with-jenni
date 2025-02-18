@@ -1,22 +1,24 @@
-Welcome to Lumache's documentation!
+Projects with Jenni
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Tips and tricks for BSc and MSc projects
+with `Jenni Rinker <https://orbit.dtu.dk/en/persons/jennifer-marie-rinker>`_.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the sections in the sidebar or the table of contents
+below for more information.
 
 .. note::
 
-   This project is under active development.
+   These docs are a work in progress.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   project_registration
+   project_management
+   project_plan
+   literature_review
+   final_report
+   defense
