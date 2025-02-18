@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Projects with Jenni
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Website here:
 
-Read the tutorial here:
+https://projects-with-jenni.readthedocs.io/en/latest/
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Generated with sphinx and readthedocs.
