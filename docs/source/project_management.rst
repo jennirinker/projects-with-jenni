@@ -1,3 +1,5 @@
+.. _project_management:
+
 Project management
 ===================
 
@@ -53,10 +55,10 @@ Here are example of key milestones that you should track for your project.
 I recommend adding intermediate milestones to help you stay on target.
 (E.g., "documentation of preliminary analysis of database added to thesis draft".)
 
- * DD.MM: First draft of project timeline and dates for key milestones (suggested: Week 2)  
- * DD.MM: Project plan submitted submitted to CampusNet (suggested: Week 4)  
- * DD.MM: Polished draft of thesis submitted to supervision team for review (suggested: 2 weeks before hand-in)  
- * DD.MM: Final draft thesis submitted to CampusNet  
+* DD.MM: First draft of project timeline and dates for key milestones (suggested: Week 2)  
+* DD.MM: Project plan submitted submitted to CampusNet (suggested: Week 4)  
+* DD.MM: Polished draft of thesis submitted to supervision team for review (suggested: 2 weeks before hand-in)  
+* DD.MM: Final draft thesis submitted to CampusNet  
 
 How to book meetings
 ----------------------

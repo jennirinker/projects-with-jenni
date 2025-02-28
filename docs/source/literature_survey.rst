@@ -1,3 +1,5 @@
+.. _literature_survey:
+
 Literature survey
 ===================
 
@@ -56,5 +58,5 @@ In engineering, literature surveys are organized by topic/methodology. It is com
 Examples of literature surveys
 -------------------------------
 
-* In examples of project plans, see tab at left.  
+* In examples of project plans: :ref:`project_plan`.  
 * Example review paper: https://iopscience.iop.org/article/10.1088/1742-6596/2362/1/012035/meta. 

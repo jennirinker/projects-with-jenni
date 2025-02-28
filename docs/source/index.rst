@@ -17,6 +17,7 @@ Contents
 .. toctree::
 
    project_registration
+   onboarding
    project_management
    project_plan
    literature_survey

@@ -1,3 +1,5 @@
+.. _project_plan:
+
 Project plan
 ===============
 
@@ -18,7 +20,7 @@ I suggest the following structure:
 
 * **Preliminary literature survey**. How have other people tried to solve the problem (or related problems)?  
 
-    * More info on literature surveys in tab at left.  
+    * More info: :ref:`literature_survey`.  
 
 * **Research questions**. What research questions will you answer as you try to solve the problem?
 
