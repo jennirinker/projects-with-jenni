@@ -34,7 +34,7 @@ I suggest the following structure:
 Previous examples
 ------------------
 
-**NOTE!** These examples were made before I made this website.  
+**NOTE!** These examples were written before I created this website.  
 
 * BSc:
 
@@ -42,7 +42,7 @@ Previous examples
 
 * MSc:
 
-    * To be uploaded.
+    * :download:`Theo <_static/project-plan-msc-esther.pdf>`: The state-of-the-art is a blend of methodology and existing literature, but it does a good job of highlighting challenges and defining research questions.
 
 
 DTU Rules
