@@ -19,7 +19,7 @@ Contents
    project_registration
    project_management
    project_plan
-   literature_review
+   literature_survey
    final_report
    defense
    improve
