@@ -9,6 +9,11 @@ learning objectives. Deadline and hand-in is on CampusNet project,
 under Assignments.
 
 
+Writing tips
+--------------
+
+See :ref:`scientific_writing` in Final report tab.
+
 Contents of the project plan
 -----------------------------
 

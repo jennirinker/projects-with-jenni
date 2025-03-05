@@ -3,6 +3,7 @@ Projects with Jenni
 
 Tips and tricks for BSc and MSc projects
 with `Jenni Rinker <https://orbit.dtu.dk/en/persons/jennifer-marie-rinker>`_.
+See table of contents below for more information.
 
 .. image:: _static/jenni.jpg
   :align: center
@@ -11,12 +12,10 @@ with `Jenni Rinker <https://orbit.dtu.dk/en/persons/jennifer-marie-rinker>`_.
 
 |
 
-Check out the sections in the sidebar or the table of contents
-below for more information.
-
 .. note::
 
-   These docs are a work in progress.
+   These docs are a work in progress. 
+   The source code is `here on GitHub <https://github.com/jennirinker/projects-with-jenni/tree/main>`_.
 
 Contents
 --------
