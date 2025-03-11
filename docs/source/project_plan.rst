@@ -47,7 +47,8 @@ Previous examples
 
 * MSc:
 
-    * :download:`Theo <_static/project-plan-msc-esther.pdf>`: The state-of-the-art is a blend of methodology and existing literature, but it does a good job of highlighting challenges and defining research questions.
+    * :download:`Esther <_static/project-plan-msc-esther.pdf>`: The state-of-the-art is a blend of methodology and existing literature, but it does a good job of highlighting challenges and defining research questions.
+    * :download:`Thea <_static/project-plan-msc-thea.pdf>`: Similar to Esther's, state-of-the-art is a blend of methodology and literature, but very clear writing style. Project management section is also good.
 
 
 DTU Rules
