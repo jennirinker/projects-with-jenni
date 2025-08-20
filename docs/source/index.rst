@@ -25,6 +25,7 @@ Contents
    project_registration
    onboarding
    project_management
+   scientific_writing
    project_plan
    literature_survey
    final_report
