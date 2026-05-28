@@ -27,9 +27,11 @@ Start with Scite AI
   Use Scite AI to figure out which papers might be relevant, but then read the papers yourself and draw your own conclusions.  
 * Get started with Scite AI:  
 
-    * Go to `DTU Findit <https://findit.dtu.dk/>`_ and log in.
+    * Go to `DTU Findit <https://findit.dtu.dk/>`_ and log in.  
+    * Click the "Scite AI" link on "Other search tools", right above the search box.
     * Create an account in Scite AI using your DTU credentials and verify your email.  
-    * Use the "Assistant" to search literature for various topics.
+    * Use the "Assistant" chatbot to search literature for various topics.  
+      Explore the other tabs at your leisure.
 
 * If you can't get the paper through Scite AI, use DTU Findit to get the paper PDF.  
 
