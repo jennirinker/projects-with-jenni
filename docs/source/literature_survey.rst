@@ -19,12 +19,19 @@ Overview of steps
 `This article <https://guides.lib.utexas.edu/c.php?g=1060589&p=7710319>`_ has a nice summary of the process.
 Some extra tips from me are below.
 
-Identifying papers to read
------------------------------
+Start with Scite AI
+-------------------------------
 
-* Different papers may be relevant for different researh questions. 
-* Use Google Scholar to find options, then DTU FindIt to get the paper PDF.  
+* DTU has access to Scite AI, which is a good tool to get started.  
+* **!!! BUT ASSUME THE TOOL HALLUCINATES !!!**
+  Use Scite AI to figure out which papers might be relevant, but then read the papers yourself and draw your own conclusions.  
+* Get started with Scite AI:  
 
+    * Go to `DTU Findit <https://findit.dtu.dk/>`_ and log in.
+    * Create an account in Scite AI using your DTU credentials and verify your email.  
+    * Use the "Assistant" to search literature for various topics.
+
+* If you can't get the paper through Scite AI, use DTU Findit to get the paper PDF.  
 
 Keeping track of papers
 -----------------------------
@@ -33,6 +40,13 @@ Keeping track of papers
 * You can use tags/collections in Zotero to indicate if you've read the paper yet, which research question it's relevant for, etc.  
 * I like making a table with all the papers I read. Each row is a new paper. The columns are: BibTeX ID, title, 1-sentence summary, categories (e.g., which research questions it's relevant for, what topic does it fall under, etc.), key conclusions from their results (bullet list) pros (bullet list), cons (bullet list) and notes (bullet list).  
 
+
+Spar with your supervisor
+-----------------------------
+
+* I like my students to present their analysis of, e.g., 2-3 papers in supervision meetings.  
+  It's a nice way for me to not only keep updated on relevant literature but also verify the student's analysis/interpretation of the papers.  
+* See example slide in PPTX template under "Weekly meetings" in :ref:`project_management`
 
 Synthesizing the results
 -------------------------
