@@ -20,7 +20,7 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 3
 
    define-start-project
    project-management

@@ -8,10 +8,10 @@ I recommend you re-read Lars Landberg's book before beginning to write your thes
 
 The report is handed in as a PDF on CampusNet.
 
-Report structure
-------------------
+Choosing a structure
+--------------------------
 
-There are two options for report structure: monograph or compendium.
+There are generally two options for report structure: monograph or compendium.
 
 * **Monograph**. "Classic" report structure. One cohesive document.  
 * **Compendium**. Uncommon for MSc theses, more common for PhD theses. Useful if you want to try to publish a paper from your MSc. A chapter in the compendium is a fully prepared draft of a conference or journal paper.
@@ -22,7 +22,7 @@ If you're interested in a compendium, discuss it with me at least one month befo
 
 
 Monograph
-^^^^^^^^^^^^^^
+------------------
 
 Below is an example of a monograph report structure.
 You can change the structure if it better tells your story.
@@ -41,8 +41,9 @@ Examples of monographs
 * MSc. `Esther's thesis <https://findit.dtu.dk/en/catalog/64ab4c8ec3a23191526c38dd>`_
 * MSc. `Thea's thesis <https://findit.dtu.dk/en/catalog/612f5fb6d9001d017237203a>`_
 
+
 Compendium
-^^^^^^^^^^^^^^
+------------------
 
 Compendiums are non-traditional for MSc theses but give the student experience in writing a scientific paper ready for submission.
 Care must be taken in the introduction to orient the reader as to the structure, and section introductions should be used to tell the story throughout the thesis.
