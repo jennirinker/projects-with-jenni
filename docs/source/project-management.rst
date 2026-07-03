@@ -48,22 +48,21 @@ Weekly meetings
 
 
 
-Example milestones
+Example timeline
 -------------------
 
-Here are example of key milestones that you should track for your project.
-I recommend adding intermediate milestones to help you stay on target.
-(E.g., "documentation of preliminary analysis of database added to thesis draft".)
+Every project is different, but here is an example of a rough timeline for a 30-ECTS thesis (5 months).
 
-* DD.MM: First draft of project timeline and dates for key milestones (suggested: Week 2)  
-* DD.MM: Project plan submitted submitted to CampusNet (suggested: Week 4)  
-* DD.MM: Polished draft of thesis submitted to supervision team for review (suggested: 2 weeks before hand-in)  
-* DD.MM: Final draft thesis submitted to CampusNet  
+* Month 1: Conducting literature survey, initial foray into data analysis.
+* Months 2: Complete first study; final figures for thesis reviewed/approved by supervisors.
+* Month 3-4: Complete second study; Introduction and Methodology mostly written; censor confirmed.
+* Month 5: Data freeze; all report figures reviewed and approved; finalize and review report.  
+
 
 How to book meetings
 ----------------------
 
-If it is not in my calendar, I will forget it.
+If it is not in my calendar, I will forget it. :(
 
 To check when my calendar is free:
 

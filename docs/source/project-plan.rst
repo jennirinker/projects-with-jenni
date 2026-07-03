@@ -9,11 +9,6 @@ learning objectives. Deadline and hand-in is on CampusNet project,
 under Assignments.
 
 
-Writing tips
---------------
-
-See :ref:`scientific_writing` in Final report tab.
-
 Contents of the project plan
 -----------------------------
 
@@ -29,6 +24,7 @@ I suggest the following structure:
 
 * **Research questions**. What research questions will you answer as you try to solve the problem?
 
+    * See tips for research questions in :ref:`think_like_a_researcher`.  
     * Ideally, your thesis will start with your research questions and, in the conclusion, explain the answer to each based on your results.
 
 * **Learning objectives**. What skills will you acquire in this project?  
@@ -39,7 +35,7 @@ I suggest the following structure:
 Previous examples
 ------------------
 
-**NOTE!** These examples were written before I created this website.  
+**NB:** These examples were written before I created this website.  
 
 * BSc:
 

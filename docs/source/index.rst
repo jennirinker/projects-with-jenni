@@ -14,20 +14,18 @@ See table of contents below for more information.
 
 .. note::
 
-   These docs are a work in progress. 
-   The source code is `here on GitHub <https://github.com/jennirinker/projects-with-jenni/tree/main>`_.
+   The source code for these docs is `here on GitHub <https://github.com/jennirinker/projects-with-jenni/tree/main>`_.
 
 Contents
 --------
 
 .. toctree::
+   :maxdepth: 4
 
-   project_registration
-   onboarding
-   project_management
-   scientific_writing
-   project_plan
-   literature_survey
-   final_report
+   define-start-project
+   project-management
+   think-like-a-researcher
+   literature-survey
+   writing-and-reports
    defense
-   improve
+   report-issues

@@ -1,25 +1,24 @@
-Scientific writing
-====================
-
 .. _scientific_writing:
 
-Scientific writing tips
--------------------------
+Writing tips and resources
+===========================
+
+I HIGHLY recommend you borrow my copy of Lars Landberg's book [1] before you begin writing. It is a short and effective guide.
+
+General tips
+--------------
 
 Note that I use "report" and "paper" here interchangebly.
+
+* **LaTeX**:  
+
+    * When quoting, don't use the double-quote symbol ". Use instead `` for beginning a quotation and '' (two single quotes) for ending a quotation.  
 
 * **General**:
 
     * Say what you're going to say, say it, then say what you said/why it matters. Valid for entire theses, sections, subsections and paragraphs.  
     * Your job: make your conclusions in a way that is (a) convincing but (b) as easy to understand as possible.  
     * Do not make observational statements (e.g., "Figure 3 shows that the new design has a lower power than the original design") without following up with analysis. E.g., explain why that observation makes sense, or is unexpected, or is caused by...etc.
-
-* **Figure captions** (more tips `here from ACS <https://pubs.acs.org/doi/10.1021/acsenergylett.9b00253>`_):  
-
-    * Should describe the contents of the figure and any subplots.  
-    * Should not have significant analysis; that should be in the main text.  
-    * May highlight any key observations the reader should take note of.  
-    * Example of a good figure caption: "Scatterplot of extreme loads for DTU 10 MW (red) and group design (blue) as a function of wind speed: (a) tower base fore-aft, (b) tower base side-side. Note the signifant increase in loads for group design near 7 m/s, indicating resonance."
 
 * **Paragraphs**:
 
@@ -36,8 +35,15 @@ Note that I use "report" and "paper" here interchangebly.
     * Every medium/large chapter, section or subsection should have an intro sentence explaining the contents of sub- or sub-subsections.  
     * At the end of each chapter/section/subsection, the reader should know the answer to "so what"? What is important about what you wrote? Why should they care?
 
+* **Figure captions** (more tips `here from ACS <https://pubs.acs.org/doi/10.1021/acsenergylett.9b00253>`_):  
+
+    * Should describe the contents of the figure and any subplots.  
+    * Should not have significant analysis; that should be in the main text.  
+    * May highlight any key observations the reader should take note of.  
+    * Example of a good figure caption: "Scatterplot of extreme loads for DTU 10 MW (red) and group design (blue) as a function of wind speed: (a) tower base fore-aft, (b) tower base side-side. Note the signifant increase in loads for group design near 7 m/s, indicating resonance."
+
 Resources
 ----------
 
-1. Day, R. A., Gastel, B. (2006). How to Write and Publish a Scientific Paper. Spain: Cambridge University Press.  
-2. Landberg, L (2025). Writing your best thesis: a little book of thoughts. 
+1. Landberg, L (2025). Writing your best thesis: a little book of thoughts. 
+2. Day, R. A., Gastel, B. (2006). How to Write and Publish a Scientific Paper. Spain: Cambridge University Press.  

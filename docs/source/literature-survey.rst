@@ -23,8 +23,8 @@ Start with Scite AI
 -------------------------------
 
 * DTU has access to Scite AI, which is a good tool to get started.  
-* **!!! BUT ASSUME THE TOOL HALLUCINATES !!!**
-  Use Scite AI to figure out which papers might be relevant, but then read the papers yourself and draw your own conclusions.  
+* **!!! THE TOOL IS LIKELY INACCURATE AND/OR HALLUCINATES !!!**
+  Use Scite AI to get a preliminary list of which papers might be relevant, but read the papers yourself, draw your own conclusions, and be sure to do your own Google Searches to make sure your list is comprehensive.  
 * Get started with Scite AI:  
 
     * Go to `DTU Findit <https://findit.dtu.dk/>`_ and log in.  
@@ -74,5 +74,5 @@ In engineering, literature surveys are organized by topic/methodology. It is com
 Examples of literature surveys
 -------------------------------
 
-* In examples of project plans: :ref:`project_plan`.  
+* In examples of project plans: :ref:`project_plan` and examples of theses :ref:`final_report`.  
 * Example review paper: https://iopscience.iop.org/article/10.1088/1742-6596/2362/1/012035/meta. 
