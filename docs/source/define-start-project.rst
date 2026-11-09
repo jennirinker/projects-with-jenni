@@ -31,13 +31,15 @@ If I take too long too respond, feel free to send another email or just invite m
 Project registration
 -------------------------------
 
-Once we have loosely defined your project, you should fill out
-:download:`this template for project registration <_static/project_indberetning_template.docx>`
-and send it to the supervision team for review. This should be done at least
-2 weeks before your desired start date. Examples of project descriptions are below.
+Assuming you have loosely defined your project with the supervision team.
 
-Once the feedback from the supervision team is integrated into the project-registration
-form, I will register the project in the system. We are then ready for the onboarding meeting (see below).
+**Four working weeks before your desired start date**: fill out
+:download:`this template for project registration <_static/project_indberetning_template.docx>`
+and send it to the supervision team for review. Examples of project descriptions are below.
+Implement their feedback as needed until you have a final, approved version.
+
+**Two working weeks before your desired start date**: I will register the project in the system.
+We are then ready for the onboarding meeting (see below).
 
 
 **Example project descriptions**
@@ -52,10 +54,20 @@ Onboarding meeting
 
 Once your project has been registered, schedule a 1.5-hour onboarding meeting with me.
 (See how to book me in :ref:`project_management`).
-In that meeting, we will go through this website, align on file sharing and just get to know each other a bit better.
+In that meeting, we will get to know each other a little better, go through this website, and align on file sharing.
 
 I HIGHLY recommend you borrow my copy of Lars Landberg's book (see :ref:`scientific_writing`) when starting your project and partway through.
 It is a short and effective guide.
+
+Onboarding chat:
+* NB: You don't need to answer any question you don't want to.
+* Do you have a nickname you prefer? What pronouns would you like me to use for you?
+* Where are you from? What's your family like? How has life in Denmark been for you?
+* How have you experienced stress in your life, if at all? Symptoms? Do you have any de-stressing activities?
+* How do you like to work? (E.g., at home vs. away from home, time of the day, etc.)
+* Is there anything I can do to make meetings more comfortable for you? Anything I should be aware of during our collaboration?
+* Is there any grade in particular you really want or need?
+* Is there anything I haven't asked about that you would like to talk about?
 
 Updating your project
 ------------------------
