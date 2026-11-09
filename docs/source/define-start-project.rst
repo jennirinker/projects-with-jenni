@@ -59,7 +59,8 @@ In that meeting, we will get to know each other a little better, go through this
 I HIGHLY recommend you borrow my copy of Lars Landberg's book (see :ref:`scientific_writing`) when starting your project and partway through.
 It is a short and effective guide.
 
-Onboarding chat:
+**Onboarding chat questions**:  
+
 * NB: You don't need to answer any question you don't want to.
 * Do you have a nickname you prefer? What pronouns would you like me to use for you?
 * Where are you from? What's your family like? How has life in Denmark been for you?
